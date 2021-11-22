@@ -1,0 +1,21 @@
+a.sign_up {
+    position: absolute;
+    top: 30px;
+    right: 90px;
+    z-index: 2;
+    font-size:20px;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    font-family:fantasy;
+    font-weight: bold;
+    font-weight: 400;
+    padding:0.35em 1.2em;
+    color:#FFFFFF;
+    transition: all 0.2s;
+
+}
+a.sign_up:hover{
+    color:#000000;
+    background-color:#FFFFFF;
+}
+
